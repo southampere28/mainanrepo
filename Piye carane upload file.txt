@@ -1,6 +1,7 @@
 lek ngedit e gini dulu ges
 -> git pull origin master
 nanti otomatis file temen kamu nambah ke lokal repo kamu
+oh iya file yang abis kamu up di edit temen kamu juga bisa otomatis kena pull gess
 abis itu edit aja deh file nya, kalo udah
 -> git add "nama file nya"
 -> git commit -m "pesan"
