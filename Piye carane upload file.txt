@@ -1,0 +1,7 @@
+lek ngedit e gini dulu ges
+-> git pull origin master
+nanti otomatis file temen kamu nambah ke lokal repo kamu
+abis itu edit aja deh file nya, kalo udah
+-> git add "nama file nya"
+-> git commit -m "pesan"
+-> git push -u origin master
