@@ -1,0 +1,15 @@
+.judul {
+    color:red
+}
+
+.btn_random{
+    position: absolute;
+    display: flex;
+    left: 100px;
+    top:210px;
+}
+
+.jmleffort{
+    position: relative;
+    top: 100px;
+}
